@@ -5,6 +5,16 @@
     background-position-x: right;
 }
 
+.titolo h1 {
+    margin-top: 1%; margin-bottom: 2px;
+    text-shadow: 1px 1px 1px rgba( 0, 0, 0, 4);
+}
+
+.titolo {
+    color: red;
+    text-align: center;
+}
+
 .iscrizione {
     text-align: center;
     padding-top: 4%;
